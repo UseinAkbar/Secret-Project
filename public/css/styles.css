@@ -1,0 +1,32 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.centered p {
+  font-weight: 400;
+}
+
+.centered .btn-light {
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.centered .container .btn {
+  margin: 0 2.5px;
+}
+
+.centered .container i {
+  filter: drop-shadow(-4px 0 2px grey);
+}
