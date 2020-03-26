@@ -8,8 +8,18 @@ body {
     text-align: center;
 }
 
+div.submit {
+  padding-top: 100px
+}
+
 .centered p {
   font-weight: 400;
+}
+
+.centered p.bottom {
+  color: white;
+  opacity: .9;
+  text-shadow: 0 0 2.5px black
 }
 
 .centered .btn-light {
@@ -29,4 +39,8 @@ body {
 
 .centered .container i {
   filter: drop-shadow(-4px 0 2px grey);
+}
+
+.social-block {
+  margin-top: 45px
 }
